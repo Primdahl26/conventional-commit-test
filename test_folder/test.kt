@@ -4,5 +4,5 @@ fun main() {
 }
 
 fun somethingNice() {
-  print("Noice")
+  print("Nice")
 }

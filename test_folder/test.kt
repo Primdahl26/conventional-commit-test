@@ -3,6 +3,9 @@ fun main() {
   print("hest")
 }
 
+print("asd")
+print("asd")
+
 fun somethingNice() {
   print("Nice")
 }

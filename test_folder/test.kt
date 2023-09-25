@@ -4,6 +4,7 @@ fun main() {
 }
 
 print("asd")
+print("asd")
 
 fun somethingNice() {
   print("Nice")

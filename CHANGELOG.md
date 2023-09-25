@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/Primdahl26/conventional-commit-test/compare/v0.2.1...v0.3.0) (2023-09-25)
+
+
+### Features
+
+* add something ([d6548cb](https://github.com/Primdahl26/conventional-commit-test/commit/d6548cbe945fe3f7757abb9203dc65d085951b90))
+
+
+
 ## [0.2.1](https://github.com/Primdahl26/conventional-commit-test/compare/v0.2.0...v0.2.1) (2023-09-22)
 
 

@@ -1,3 +1,17 @@
+# [0.4.0](https://github.com/Primdahl26/conventional-commit-test/compare/v0.3.0...v0.4.0) (2023-09-25)
+
+
+### Bug Fixes
+
+* fix something ([304f698](https://github.com/Primdahl26/conventional-commit-test/commit/304f698bfb88eaa2012a757f00c9a093620c6ced))
+
+
+### Features
+
+* test test ([d227f78](https://github.com/Primdahl26/conventional-commit-test/commit/d227f7805e6009acfe2dd8155812aa4480755973))
+
+
+
 # [0.3.0](https://github.com/Primdahl26/conventional-commit-test/compare/v0.2.1...v0.3.0) (2023-09-25)
 
 

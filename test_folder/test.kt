@@ -3,6 +3,8 @@ fun main() {
   print("hest")
 }
 
+print("ad")
+
 print("asd")
 print("asd")
 
